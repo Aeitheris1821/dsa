@@ -4,8 +4,8 @@
 - Make sure you show some love by giving ⭐ to our repository.
 
 <div align="center">
-  <a href="https://github.com/Aeitheris/dsa">
-    <img src="https://contrib.rocks/image?repo=Aeitheris/dsa&&max=1000&&cachebust=1" />
+  <a href="https://github.com/Aeitheris1821/dsa">
+    <img src="https://contrib.rocks/image?repo=Aeitheris1821/dsa&&max=1000&&cachebust=1" />
   </a>
 </div>
 
